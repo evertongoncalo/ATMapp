@@ -1,0 +1,1 @@
+O projeto "ATMapp" em terminal Java é uma aplicação que simula um caixa eletrônico (ATM - Automated Teller Machine). Essa aplicação permite aos usuários interagir com o caixa eletrônico por meio do terminal de linha de comando.
